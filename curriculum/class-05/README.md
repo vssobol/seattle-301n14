@@ -1,4 +1,4 @@
-# Class 5: Deployment Workshop 
+# Class 05: Deployment Workshop 
 
 ## Overview
 
