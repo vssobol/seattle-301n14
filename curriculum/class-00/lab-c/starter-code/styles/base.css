@@ -17,4 +17,14 @@ nav, article, aside, footer section {
   width: 900px;
 }
 
+.print, .date {
+  color: #a9a8a5;
+  font-family: 'Abel', sans-serif;
+  font-size: .8em;
+  margin: 0;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 33px;
+}
+
 
