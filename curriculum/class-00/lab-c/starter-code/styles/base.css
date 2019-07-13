@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
+
+* {
+  font-family: times;
+}
+
+body {
+  background: #fff;
+}
+
+input {
+  font-family: 'Patrick Hand', cursive;
+}
+
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.print, .date {
+  color: #a9a8a5;
+  font-family: 'Abel', sans-serif;
+  font-size: .8em;
+  margin: 0;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 33px;
+}
+
+
